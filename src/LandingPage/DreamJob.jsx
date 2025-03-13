@@ -47,8 +47,8 @@ const DreamJob = () => {
               </div>
 
               <div className='flex justify-around gap-2 text-mine-shaft-200 text-xs '>
-                <sapn>I day ago</sapn>
-                <sapn>120 Applicants</sapn>
+                <span>1 day ago</span>
+                <span>120 Applicants</span>
               </div>
             </div>
         </div>

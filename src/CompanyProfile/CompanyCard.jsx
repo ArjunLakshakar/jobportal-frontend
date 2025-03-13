@@ -11,7 +11,7 @@ const CompanyCard = ({ name, employees, index }) => {
         <div className="flex gap-2 items-center">
           <div className="p-2 rounded-md bg-mine-shaft-800">
             <img className="h-7" src={`/Icons/${name}.png`} alt={name} />
-          </div>
+          </div>cle
           <div className="flex flex-col gap-1">
             <div className="font-semibold">{name}</div>
             <div className="text-xs text-mine-shaft-300">{employees} Employees</div>
